@@ -36,7 +36,7 @@ Resources:
               Statement:
                 -
                     Action:
-                    - ec2:AssignPrivateIpAddresses
+                    - ec2:Assi
                     - ec2:AssociateAddress
                     - ec2:AssociateIamInstanceProfile
                     - ec2:AssociateRouteTable
